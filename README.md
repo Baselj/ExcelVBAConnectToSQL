@@ -11,5 +11,7 @@ Excel macro, written in VBA connects to SQL database using a query from GetSQLSt
 1. Excel with VBA enabled
 2. Enabled developer tab in Excel (options -> customize Ribbon, check Developer)
 3. Under Tools/References add a reference for Microsoft Activex Data Objects Library.
-4. Import .bas file from the commit into a new module 
 
+## How do I use it?
+
+- Import .bas file from the commit into a new module or use the Excel which already has the module included.
