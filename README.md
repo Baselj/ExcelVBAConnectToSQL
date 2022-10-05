@@ -3,7 +3,7 @@ Connect to SQL Database using Excel VBA
 
 ## Description
 
-Excel macro, written in VBA connect to SQL database using a query from GetSQLString function and copies the recordset into Sheet1("A1"). Error handling is included.
+Excel macro, written in VBA connects to SQL database using a query from GetSQLString function and copies the recordset into Sheet1("A1"). Error handling is included.
 
 ## Requirements
 
