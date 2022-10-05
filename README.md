@@ -1,4 +1,5 @@
-# ExcelVBAConnectToSQL
+# Excel VBA - connect to SQL using a custom query
+
 Connect to SQL Database using Excel VBA 
 
 ## Description
